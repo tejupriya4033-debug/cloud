@@ -1,0 +1,6 @@
+streamlit
+Wikipedia
+speechrecognition
+googlesearch-python
+requests
+beautifulsoup4
